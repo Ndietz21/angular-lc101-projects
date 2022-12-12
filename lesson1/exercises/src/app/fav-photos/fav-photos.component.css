@@ -3,9 +3,13 @@ h3 {
 }
 
 img {
-
+   width: 75%;
+   height: auto;
+   filter: grayscale(75%);
 }
 
 .photos {
    text-align: center;
+   border-left-style: dotted;
+   border-right-style: dotted;
 }
